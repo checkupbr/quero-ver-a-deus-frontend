@@ -1,4 +1,3 @@
-
 {
   "name": "quero-ver-a-deus",
   "version": "1.0.0",
@@ -10,7 +9,9 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.30.1",
+    "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
     "vite": "^5.0.0"
